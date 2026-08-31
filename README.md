@@ -1,7 +1,8 @@
 # this is my local repository
-<<<<<<< HEAD
-=======
+
 # name = input("enter your name: ")
+
+
 i = 'Gouri'
 
 if i in name:
@@ -9,4 +10,4 @@ if i in name:
 
 else:
     print("you are not my love")
->>>>>>> Feature1
+
