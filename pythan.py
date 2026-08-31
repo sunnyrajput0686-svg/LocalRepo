@@ -1,7 +1,8 @@
-def mul():
-    return a*b
+name = input("enter your name: ")
+i = 'Gouri'
 
-a=15
-b=45
+if i in name:
+    print(f"i love you {i}")
 
-print(mul())
+else:
+    print("you are not my love")
